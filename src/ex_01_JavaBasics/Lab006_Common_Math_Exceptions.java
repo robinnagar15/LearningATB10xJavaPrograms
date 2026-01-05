@@ -1,6 +1,6 @@
 package ex_01_JavaBasics;
 
-public class Lab06_Common_Math_Exceptions {
+public class Lab006_Common_Math_Exceptions {
 
     public static void main(String[] args) {
 
