@@ -9,6 +9,5 @@ public class Lab011_Variables {
         int _3 = 123;
 
         // Are these correct ? Yes
-    '
     }
 }
