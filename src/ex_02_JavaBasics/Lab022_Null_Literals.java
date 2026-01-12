@@ -5,8 +5,8 @@ public class Lab022_Null_Literals {
 
         //null -> non-primitive
         String s1=null; //bits-64
-        int age=null;
-        boolean b=null;
+        //int age=null;
+        //boolean b=null;
 
     }
 }
